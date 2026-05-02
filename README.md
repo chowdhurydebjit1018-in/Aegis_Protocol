@@ -87,14 +87,6 @@ npm run dev
 
 Visit `http://localhost:5173`
 
-### Production Build
-
-```bash
-npm run build
-```
-
-Output: `dist/index.html` (ready to deploy)
-
 ---
 
 ## 📝 Using the Scanner
@@ -384,12 +376,9 @@ MIT License - feel free to use this project for learning and development!
 
 ---
 
-## 📞 Contact
+## Project Owner
 
-- **Website**: [aegis-protocol.io](#)
-- **Twitter**: [@AegisProtocol](#)
-- **Discord**: [Join our community](#)
-- **Email**: security@aegis-protocol.io
+- Made By - Debjit Chowdhury
 
 ---
 
